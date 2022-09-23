@@ -21,7 +21,7 @@
     
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/reb1324/Reb1324/blob/output/github-contribution-grid-snake.svg)
 
 
 <h2 align="center">Connect with me: </h2>
