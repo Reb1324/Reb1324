@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Rebeca</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Rebeca 🏳️‍🌈</h1>
 
-<h3 align="center">I'm a brazilian Junior Developer!</h3>
+<h3 align="center">✨I'm a brazilian Junior Developer!✨</h3>
 
 ##
 
@@ -18,6 +18,15 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
    </div>
+   
+   <details>
+    <summary><h4>My Technical Skills</h4></summary>
+<div id='lojc' align="center">
+
+| Languages  | Frameworks | Technologies | Tools | 
+|---|---|---|---|
+|<div id='lojc' align="center"><span>JavaScript🔸SQL🔸Python</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸Figma🔸MySQL Workbench</span></div>|
+  </details>
     
 </div>
 
