@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Rebeca 🏳️‍🌈</h1>
+<h1 align="center">Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Rebeca 🏳️‍🌈</h1>
 
 <h3 align="center">✨I'm a brazilian Junior Developer!✨</h3>
 
