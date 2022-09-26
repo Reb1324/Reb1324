@@ -49,5 +49,3 @@
 	</a>
 	<a href="https://github.com/Reb1324?tab=followers"><img src="https://img.shields.io/github/followers/Reb1324?label=Followers&style=social" 			alt="GitHub Badge"></a>
 </div> 
-
-
