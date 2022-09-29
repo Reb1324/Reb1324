@@ -40,7 +40,6 @@
   <a href="https://www.linkedin.com/in/rebeca-santos-6555061b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
 <h2 align="center">❤ Views and Followers</h2>
 
 <div align="center">
