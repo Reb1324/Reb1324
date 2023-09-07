@@ -51,4 +51,5 @@ EM REFORMA
 	<a href="https://github.com/Reb1324?tab=followers"><img src="https://img.shields.io/github/followers/Reb1324?label=Followers&style=social" 			alt="GitHub Badge"></a>
 </div> 
 
-<img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=900&pause=1000&color=D3FFFC&center=true&vCenter=true&width=90&lines=Bye" alt="Typing SVG" /></a>
+
