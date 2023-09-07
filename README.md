@@ -1,7 +1,6 @@
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=CAE2F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rebeca+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88" alt="Typing SVG" /></h1>
 
 
-
 <h3 align="center">✨I'm a brazilian Junior Developer!✨</h3>
 
 ##
@@ -45,6 +44,7 @@ EM REFORMA
 
 <h2 align="center">❤ Views and Followers</h2>
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 <div align="center">
 	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 		<img src="https://komarev.com/ghpvc/?username=Reb1324">
