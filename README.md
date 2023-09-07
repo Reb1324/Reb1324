@@ -1,6 +1,6 @@
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=CAE2F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rebeca+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=1000&color=D3FFFC&center=true&vCenter=true&width=380&lines=Hello%2C+I'm+Rebeca%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88" alt="Typing SVG" /></h1>
 
-🏳️‍🌈
+
 <h3 align="center">✨I'm a brazilian Junior Developer!✨</h3>
 
 ##
