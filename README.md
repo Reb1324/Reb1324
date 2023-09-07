@@ -42,15 +42,6 @@ EM REFORMA
   <a href="https://www.linkedin.com/in/rebeca-santos-6555061b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div  align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=2000&pause=1000&color=CBF2F6&center=true&vCenter=true&width=90&lines=Bye" alt="Typing SVG" /></a>
-</div>
-
-<div  align="center"> 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px" height="30px">
-</div>
-
-
 <h2 align="center">❤ Views and Followers</h2>
 
 <div align="center">
@@ -59,3 +50,8 @@ EM REFORMA
 	</a>
 	<a href="https://github.com/Reb1324?tab=followers"><img src="https://img.shields.io/github/followers/Reb1324?label=Followers&style=social" 			alt="GitHub Badge"></a>
 </div> 
+
+
+<div  align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=2000&pause=1000&color=CBF2F6&center=true&vCenter=true&width=90&lines=Bye" alt="Typing SVG" /></a>
+</div>
